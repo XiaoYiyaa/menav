@@ -13,15 +13,15 @@ fonts:
   title:  # 标题字体设置
     family: "Roboto"  # 字体名称
     weight: 700       # 字重值：400常规、500中等、700粗体
-    source: "google"  # 字体来源：google或system
+    source: "system"  # 字体来源：google或system
   subtitle:  # 副标题字体
     family: "Noto Sans SC"
     weight: 500
-    source: "google"
+    source: "system"
   body:  # 正文字体
     family: "Noto Sans SC"
     weight: 400
-    source: "google"
+    source: "system"
     
 # 个人资料配置
 profile:
@@ -32,9 +32,9 @@ profile:
 # 社交媒体链接
 social:
   - name: "GitHub"
-    url: "https://github.com/your-username"
+    url: "https://github.com"
     icon: "fab fa-github"
   - name: "Twitter"
-    url: "https://twitter.com/your-username"
+    url: "https://x.com"
     icon: "fab fa-twitter"
   # 更多社交媒体...
